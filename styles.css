@@ -20,14 +20,23 @@ footer {
   font-size: 0.7rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 .row {
   display: flex;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
 .even-col {
   padding: 15px 30px;
+}
+
+.btn {
+  padding: 12px 45px;
+  background-color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.6rem;
+  margin-bottom: 50px;
 }
